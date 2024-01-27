@@ -1,0 +1,11 @@
+infrastructure for games based on SDL2
+
+just assign your update function and your render function
+
+input is supported
+
+to do:
+need to add support for sound
+need to make resolution and fps dynamic not defined in program_defs.h
+
+
